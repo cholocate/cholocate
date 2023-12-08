@@ -1,6 +1,3 @@
-## Hi, if this line is still visible, this README.md is still construction! 👋
-That being said here are some stats below and what I am working on! 
-
 ### Arxiv and Github Repos I am studying on (Clustering for Deep Learning Models) 
 [Learn to Cluster](https://github.com/yl-1993/learn-to-cluster)
 [Paper](https://arxiv.org/abs/1904.02749) 
