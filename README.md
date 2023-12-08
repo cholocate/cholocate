@@ -5,6 +5,9 @@
 [More on Clustering](https://github.com/XiaohangZhan/cdp/)
 [Paper](https://arxiv.org/abs/1809.01407)
 
+### Notes I am updating weekly 📓! 
+[📔](https://minhnle.com/docs/Overview1)
+
 ### Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/omegamesh)](https://leetcode.com/omegamesh)
 <!--
