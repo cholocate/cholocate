@@ -5,8 +5,10 @@
 [More on Clustering](https://github.com/XiaohangZhan/cdp/)
 [Paper](https://arxiv.org/abs/1809.01407)
 
-### [Notes I am updating weekly 📔](https://minhnle.com/docs/Overview1)! 
+### APIs and Projects I am working on (might or might not be published) 
+- Creating custom API to generate a chronological visual from book (testing with historical category first) chapters by NLP and data manipulations 🗄️
 
+### [Notes I am updating weekly 📔](https://minhnle.com/docs/Overview1)! 
 
 ### Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/omegamesh)](https://leetcode.com/omegamesh)
