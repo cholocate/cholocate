@@ -1,14 +1,14 @@
-### Arxiv and Github Repos I am studying on (Clustering for Deep Learning Models) 
-[Learn to Cluster](https://github.com/yl-1993/learn-to-cluster)
-[Paper](https://arxiv.org/abs/1904.02749) 
+## Currently Doing
+- MLOps and Deep Learning Frameworks @ Intel
+- [Operating Systems](cs162.org)
+- Leetcoding in C++ (ikykik)
 
-[More on Clustering](https://github.com/XiaohangZhan/cdp/)
-[Paper](https://arxiv.org/abs/1809.01407)
+### Book Stack 
+- Naked Statistics
+- The Guns of August (2nd Read)
+- Feel-Good Productivity
 
-### APIs and Projects I am working on (might or might not be published) 
-- Creating custom API to generate a chronological visual from book (testing with historical category first) chapters by NLP and data manipulations 🗄️
-
-### [Notes I am updating weekly 📔](https://minhnle.com/docs/Overview1)! 
+### [ML | Algorithms | OS Notes📔](https://minhnle.com/docs/Overview1)! 
 
 ### Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/omegamesh)](https://leetcode.com/omegamesh)
