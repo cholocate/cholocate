@@ -1,6 +1,6 @@
 ## Currently Doing
 - MLOps and Deep Learning Frameworks @ Intel
-- [Operating Systems](cs162.org)
+- [Operating Systems](https://cs162.org/)
 - Leetcoding in C++ (ikykik)
 
 ### Book Stack 
