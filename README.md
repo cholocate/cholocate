@@ -1,12 +1,9 @@
 ## Currently Doing
 - MLOps and Deep Learning Frameworks @ Intel
-- [Operating Systems](https://cs162.org/)
-- Leetcoding in C++ (ikykik)
 
 ### Book Stack 
-- Naked Statistics
-- The Guns of August (2nd Read)
-- Feel-Good Productivity
+- Sapiens - A Brief History of Humankind
+- In The Garden of the Beasts
 
 ### [ML | Algorithms | OS Notes📔](https://minhnle.com/docs/Overview1)! 
 
