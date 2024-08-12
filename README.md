@@ -1,5 +1,5 @@
 ## Currently Doing
-- MLOps and Deep Learning Frameworks @ Intel
+- New Grad Hunting!
 
 ### Book Stack 
 - Sapiens - A Brief History of Humankind
