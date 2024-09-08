@@ -1,9 +1,10 @@
 ## Currently Doing
+- Practicing Stoicism
 - New Grad Hunting!
 
 ### Book Stack 
 - Sapiens - A Brief History of Humankind
-- In The Garden of the Beasts
+- Lord of the Rings Triology (all-in-one limited edition, this just means there are pictures are additional appendix)
 
 ### [ML | Algorithms | OS Notes📔](https://minhnle.com/docs/Overview1)! 
 
