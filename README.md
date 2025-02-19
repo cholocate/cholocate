@@ -1,7 +1,3 @@
-## Currently Doing
-- Practicing Stoicism
-- New Grad Hunting!
-
 ### Book Stack 
 - Sapiens - A Brief History of Humankind
 - Lord of the Rings Triology (all-in-one limited edition, this just means there are pictures and additional appendix)
