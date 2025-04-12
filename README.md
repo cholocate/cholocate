@@ -1,11 +1,10 @@
-### Book Stack 
-- Sapiens - A Brief History of Humankind
-- Lord of the Rings Triology (all-in-one limited edition, this just means there are pictures and additional appendix)
-
-### [ML | Algorithms | OS Notes📔](https://minhnle.com/docs/Overview1)! 
-
-### Leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/omegamesh)](https://leetcode.com/omegamesh)
+```
+That was the year I was left at the altar.
+The year I was beat up by a crazy bartender.
+The year I got fired.
+The year I got beat up by a goat, a girl goat at that.
+And dammit, if it wasn't the best year of my life.
+```
 <!--
 **cholocate/cholocate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
